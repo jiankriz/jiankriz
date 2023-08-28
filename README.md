@@ -1,4 +1,4 @@
-### :sparkles: About Me ###
+`#000000` ### :sparkles: About Me ###
 
 I'm Jiana. An aspiring Data Analyst with an educational background in Chemical Engineering.
 
