@@ -3,6 +3,7 @@
 I'm Jiana. An aspiring Data Analyst with an educational background in Chemical Engineering.
 
 ### :books: Projects ###
+* [Brainstation Capstone Project](https://github.com/jiankriz/Brainstation-project)
 
 ### :hammer_and_wrench: Tools ###
 * **Language:** SQL
