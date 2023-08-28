@@ -4,7 +4,6 @@ I'm Jiana. An aspiring Data Analyst with an educational background in Chemical E
 
 ### :books: Projects ###
 
-
 ### :hammer_and_wrench: Tools ###
 * **Language:** SQL
 * **Database:** MySQL
