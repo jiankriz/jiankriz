@@ -1,17 +1,19 @@
+### About Me ###
+
 I'm Jiana. An aspiring Data Analyst with an educational background in Chemical Engineering.
 
-## Projects ##
+### Projects ###
 
 
-## Tools ##
+### Tools ###
 * Language: SQL
 * Database: MySQL
 * Visualization: Tableau
 
-## I am currently learning ## 
+### I am currently learning ### 
 * Data Analytics
 
-## While I'm not studying Data Analytics ## 
+### While I'm not studying Data Analytics ### 
 * I do yoga
 * Watch an anime
 * Crochet
